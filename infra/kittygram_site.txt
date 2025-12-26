@@ -1,0 +1,6 @@
+IP: 158.160.14.76;
+login: Admin1;
+password: Admin1;
+name_taski: https://kkhmee-taski.hopto.org;
+name_kittygram: https://kkhmeehost.hopto.org;
+
